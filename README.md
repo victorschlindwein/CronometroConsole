@@ -9,7 +9,7 @@ Contando 10 segundos:
 ![Cronometro contantdo de 0 a 10.](https://github.com/victorschlindwein/CronometroConsole/blob/master/gifs/progressivoEmSegundos.gif)
 
 Contando 1 minuto:
-![Cronometro contando de 0 a 60 segundos.](https://github.com/victorschlindwein/CronometroConsole/blob/master/gifs/progressivoEmSegundos.gif)
+![Cronometro contando de 0 a 60 segundos.](https://github.com/victorschlindwein/CronometroConsole/blob/master/gifs/progressivoEmMinuto.gif)
 
 #### ⏳ Cronômetro regressivo:
 
